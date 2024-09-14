@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishux777/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/vishux777/LeetCode/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vishux777/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vishux777/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
