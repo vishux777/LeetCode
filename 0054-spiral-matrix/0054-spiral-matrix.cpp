@@ -6,7 +6,6 @@ public:
           if(m==0)
           return res;
         int n=matrix[0].size();
-        
         int rowstart=0;
         int rowend=m;
         int colstart=0;
