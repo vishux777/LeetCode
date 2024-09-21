@@ -8,7 +8,6 @@ public:
             if(sum>max){
                 max=sum;
             }
-            
             if(sum<0){
                 sum=0;
             }
