@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishux777/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/vishux777/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vishux777/LeetCode/tree/master/0054-spiral-matrix) |
+| [0792-binary-search](https://github.com/vishux777/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vishux777/LeetCode/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/vishux777/LeetCode/tree/master/0792-binary-search) |
 ## Recursion
 |  |
 | ------- |
