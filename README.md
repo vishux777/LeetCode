@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vishux777/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/vishux777/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vishux777/LeetCode/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/vishux777/LeetCode/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/vishux777/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vishux777/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vishux777/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
 ## Hash Table
