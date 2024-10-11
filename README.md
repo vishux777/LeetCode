@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishux777/LeetCode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/vishux777/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/vishux777/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishux777/LeetCode/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/vishux777/LeetCode/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vishux777/LeetCode/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/vishux777/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
