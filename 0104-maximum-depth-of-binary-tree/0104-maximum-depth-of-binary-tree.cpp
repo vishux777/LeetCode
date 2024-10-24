@@ -17,6 +17,7 @@ public:
         }
         int maxLeft = maxDepth(root->left);
         int maxRight = maxDepth(root->right);
+        //cout<<maxRight;
         return max(maxLeft, maxRight)+1;
     }
 };
