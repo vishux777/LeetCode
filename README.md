@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vishux777/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vishux777/LeetCode/tree/master/1013-fibonacci-number) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishux777/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishux777/LeetCode/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/vishux777/LeetCode/tree/master/0392-is-subsequence) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishux777/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Matrix
 |  |
 | ------- |
