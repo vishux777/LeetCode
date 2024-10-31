@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vishux777/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vishux777/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vishux777/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vishux777/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vishux777/LeetCode/tree/master/1013-fibonacci-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vishux777/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/vishux777/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/vishux777/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vishux777/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vishux777/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/vishux777/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/vishux777/LeetCode/tree/master/0792-binary-search) |
 ## Recursion
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vishux777/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vishux777/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishux777/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vishux777/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
