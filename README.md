@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishux777/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishux777/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishux777/LeetCode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishux777/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vishux777/LeetCode/tree/master/0392-is-subsequence) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishux777/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Matrix
@@ -156,8 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishux777/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vishux777/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vishux777/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
