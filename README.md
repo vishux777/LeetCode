@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vishux777/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vishux777/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vishux777/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/vishux777/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vishux777/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vishux777/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/vishux777/LeetCode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vishux777/LeetCode/tree/master/0164-maximum-gap) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vishux777/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
