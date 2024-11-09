@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vishux777/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/vishux777/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/vishux777/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishux777/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/vishux777/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishux777/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Counting
 |  |
 | ------- |
