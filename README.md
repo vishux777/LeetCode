@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/vishux777/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/vishux777/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vishux777/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/vishux777/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishux777/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/vishux777/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/vishux777/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2715-k-items-with-the-maximum-sum](https://github.com/vishux777/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/vishux777/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
