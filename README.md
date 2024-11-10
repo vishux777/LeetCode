@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vishux777/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vishux777/LeetCode/tree/master/1013-fibonacci-number) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/vishux777/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishux777/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Array
 |  |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vishux777/LeetCode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [2715-k-items-with-the-maximum-sum](https://github.com/vishux777/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
