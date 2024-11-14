@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/vishux777/LeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/vishux777/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/vishux777/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/vishux777/LeetCode/tree/master/0812-rotate-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishux777/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Matrix
 |  |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/vishux777/LeetCode/tree/master/1086-divisor-game) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/vishux777/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
