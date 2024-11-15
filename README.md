@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/vishux777/LeetCode/tree/master/1086-divisor-game) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/vishux777/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishux777/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/vishux777/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/vishux777/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/vishux777/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Brainteaser
 |  |
 | ------- |
