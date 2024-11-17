@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vishux777/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vishux777/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishux777/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/vishux777/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/vishux777/LeetCode/tree/master/1086-divisor-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vishux777/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vishux777/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Hash Table
 |  |
 | ------- |
