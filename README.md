@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/vishux777/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishux777/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/vishux777/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/vishux777/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/vishux777/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/vishux777/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vishux777/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vishux777/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/vishux777/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishux777/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/vishux777/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/vishux777/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/vishux777/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Linked List
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishux777/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/vishux777/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/vishux777/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/vishux777/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/vishux777/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
