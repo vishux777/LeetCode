@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishux777/LeetCode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/vishux777/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishux777/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vishux777/LeetCode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/vishux777/LeetCode/tree/master/0520-detect-capital) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vishux777/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vishux777/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishux777/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vishux777/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/vishux777/LeetCode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/vishux777/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/vishux777/LeetCode/tree/master/0953-reverse-only-letters) |
