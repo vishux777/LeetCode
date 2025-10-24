@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vishux777/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vishux777/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vishux777/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/vishux777/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vishux777/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vishux777/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishux777/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/vishux777/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/vishux777/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/vishux777/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishux777/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vishux777/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vishux777/LeetCode/tree/master/0258-add-digits) |
 ## Greedy
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vishux777/LeetCode/tree/master/0204-count-primes) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/vishux777/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/vishux777/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Brainteaser
