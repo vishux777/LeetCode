@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vishux777/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/vishux777/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/vishux777/LeetCode/tree/master/1086-divisor-game) |
+| [2610-closest-prime-numbers-in-range](https://github.com/vishux777/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/vishux777/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/vishux777/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vishux777/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/vishux777/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vishux777/LeetCode/tree/master/0258-add-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/vishux777/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Greedy
 |  |
 | ------- |
