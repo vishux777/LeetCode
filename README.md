@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/vishux777/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/vishux777/LeetCode/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishux777/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/vishux777/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishux777/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vishux777/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vishux777/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishux777/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vishux777/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/vishux777/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vishux777/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishux777/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishux777/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vishux777/LeetCode/tree/master/0645-set-mismatch) |
@@ -287,9 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishux777/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishux777/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vishux777/LeetCode/tree/master/0051-n-queens) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vishux777/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
