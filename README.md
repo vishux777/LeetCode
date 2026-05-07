@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vishux777/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vishux777/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/vishux777/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/vishux777/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishux777/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vishux777/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/vishux777/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vishux777/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vishux777/LeetCode/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/vishux777/LeetCode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/vishux777/LeetCode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/vishux777/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/vishux777/LeetCode/tree/master/1086-divisor-game) |
 ## Binary Search
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vishux777/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vishux777/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/vishux777/LeetCode/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishux777/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vishux777/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/vishux777/LeetCode/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
 | ------- |
